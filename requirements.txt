@@ -1,0 +1,4 @@
+hmtai==3.2.31
+meval==2.5
+pyrogram==2.0.106
+git+https://github.com/kotttee/pyrogram_patch.git
